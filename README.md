@@ -1,1 +1,3 @@
 Creating a new branch is quich and simple.
+
+Git is a free software...
